@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-faq-accordion/static/css/main.9115b245.css",
+    "main.js": "/simple-faq-accordion/static/js/main.966d74b6.js",
+    "index.html": "/simple-faq-accordion/index.html",
+    "main.9115b245.css.map": "/simple-faq-accordion/static/css/main.9115b245.css.map",
+    "main.966d74b6.js.map": "/simple-faq-accordion/static/js/main.966d74b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9115b245.css",
+    "static/js/main.966d74b6.js"
+  ]
+}
