@@ -1,5 +1,6 @@
 {
-  "name": "faq-accordion",
+  "name": "simple-faq-accordion",
+  "homepage": "https://jimchuma.github.io/simple-faq-accordion",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
