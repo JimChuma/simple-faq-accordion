@@ -16,7 +16,7 @@ export default function QuestionSlot({ option, select, setSelect, item }) {
             "question-toggle-icon" + (select === option ? " rotate-icon" : "")
           }
         >
-          <img src="./simple-faq-accordion/arrow-up.svg" alt="" />
+          <img src="/simple-faq-accordion/arrow-up.svg" alt="" />
         </div>
       </div>
       <div className={"answer-div" + (select === option ? " show-div" : "")}>
